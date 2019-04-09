@@ -1,5 +1,5 @@
 <?php
-$country = array(
+$country = [
 	"91" => "India",
     "92" => "Mexico City",
     "93" => "New York City",
@@ -9,9 +9,9 @@ $country = array(
     "97" => "Lagos",
     "98" => "Buenos Aires",
     "99" => "Cairo",
-    "86" => "London");
-
-echo "<table border='1'>
+    "86" => "London"];
+echo "<center><h1>Different Country Codes</h1></center>";
+echo "<table border='1' align='center'>
 <tr>
 <th>code</th>
 <th>country</th>
